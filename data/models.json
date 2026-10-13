@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T11:49:19.583Z",
+  "updated_at": "2026-10-13T11:37:19.519Z",
   "total_free_models": 20,
   "sources": [
     "openrouter.ai/api/v1/models",
@@ -7,6 +7,27 @@
     "zerolimitai.com/api/models/free-top"
   ],
   "models": [
+    {
+      "id": "poolside/laguna-s-2.1:free",
+      "name": "Poolside: Laguna S 2.1 (free)",
+      "provider": "Poolside",
+      "context_window": 262144,
+      "max_output": 32768,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": "2026-10-31",
+      "notes": "",
+      "source": "https://openrouter.ai/poolside/laguna-s-2.1:free",
+      "created": 1784652683,
+      "kind": "chat",
+      "zo_score": 100,
+      "health": "sick"
+    },
     {
       "id": "google/gemma-4-26b-a4b-it:free",
       "name": "Google: Gemma 4 26B A4B  (free)",
@@ -50,8 +71,29 @@
       "source": "https://openrouter.ai/google/gemma-4-31b-it:free",
       "created": 1775148486,
       "kind": "chat",
-      "zo_score": 100,
+      "zo_score": 88,
       "health": "ok"
+    },
+    {
+      "id": "poolside/laguna-xs-2.1:free",
+      "name": "Poolside: Laguna XS 2.1 (free)",
+      "provider": "Poolside",
+      "context_window": 262144,
+      "max_output": 32768,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": "2026-10-31",
+      "notes": "",
+      "source": "https://openrouter.ai/poolside/laguna-xs-2.1:free",
+      "created": 1783002429,
+      "kind": "chat",
+      "zo_score": 79,
+      "health": "sick"
     },
     {
       "id": "cohere/north-mini-code:free",
@@ -71,7 +113,28 @@
       "source": "https://openrouter.ai/cohere/north-mini-code:free",
       "created": 1781723748,
       "kind": "chat",
-      "zo_score": 43,
+      "zo_score": 64,
+      "health": "ok"
+    },
+    {
+      "id": "apodex/apodex-1.1-mini:free",
+      "name": "Apodex: Apodex 1.1 Mini (free)",
+      "provider": "Apodex",
+      "context_window": 262144,
+      "max_output": 235929,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/apodex/apodex-1.1-mini:free",
+      "created": 1790875335,
+      "kind": "chat",
+      "zo_score": 36,
       "health": "ok"
     },
     {
@@ -92,27 +155,6 @@
       "notes": "",
       "source": "https://openrouter.ai/dots-studio/dots-3-note-preview:free",
       "created": 1786680361,
-      "kind": "chat",
-      "zo_score": 0,
-      "health": "ok"
-    },
-    {
-      "id": "apodex/apodex-1.1-mini:free",
-      "name": "Apodex: Apodex 1.1 Mini (free)",
-      "provider": "Apodex",
-      "context_window": 262144,
-      "max_output": 235929,
-      "modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
-      "notes": "",
-      "source": "https://openrouter.ai/apodex/apodex-1.1-mini:free",
-      "created": 1790875335,
       "kind": "chat",
       "zo_score": 0,
       "health": "ok"
@@ -270,48 +312,6 @@
       "notes": "",
       "source": "https://openrouter.ai/inclusionai/ling-3.1-flash",
       "created": 1790950024,
-      "kind": "chat",
-      "zo_score": null,
-      "health": null
-    },
-    {
-      "id": "poolside/laguna-s-2.1:free",
-      "name": "Poolside: Laguna S 2.1 (free)",
-      "provider": "Poolside",
-      "context_window": 262144,
-      "max_output": 32768,
-      "modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": "2026-10-31",
-      "notes": "",
-      "source": "https://openrouter.ai/poolside/laguna-s-2.1:free",
-      "created": 1784652683,
-      "kind": "chat",
-      "zo_score": null,
-      "health": null
-    },
-    {
-      "id": "poolside/laguna-xs-2.1:free",
-      "name": "Poolside: Laguna XS 2.1 (free)",
-      "provider": "Poolside",
-      "context_window": 262144,
-      "max_output": 32768,
-      "modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": "2026-10-31",
-      "notes": "",
-      "source": "https://openrouter.ai/poolside/laguna-xs-2.1:free",
-      "created": 1783002429,
       "kind": "chat",
       "zo_score": null,
       "health": null
