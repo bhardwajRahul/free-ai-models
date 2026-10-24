@@ -1,0 +1,473 @@
+{
+  "updated_at": "2026-10-24T08:47:45.499Z",
+  "total_free_models": 21,
+  "sources": [
+    "openrouter.ai/api/v1/models",
+    "text.pollinations.ai/models",
+    "zerolimitai.com/api/models/free-top"
+  ],
+  "models": [
+    {
+      "id": "google/gemma-4-31b-it:free",
+      "name": "Google: Gemma 4 31B (free)",
+      "provider": "Google",
+      "context_window": 262144,
+      "max_output": 32768,
+      "modalities": [
+        "image",
+        "text",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/google/gemma-4-31b-it:free",
+      "created": 1775148486,
+      "kind": "chat",
+      "zo_score": 100,
+      "health": "sick"
+    },
+    {
+      "id": "google/gemma-4-26b-a4b-it:free",
+      "name": "Google: Gemma 4 26B A4B  (free)",
+      "provider": "Google",
+      "context_window": 262144,
+      "max_output": 32768,
+      "modalities": [
+        "image",
+        "text",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/google/gemma-4-26b-a4b-it:free",
+      "created": 1775227989,
+      "kind": "chat",
+      "zo_score": 94,
+      "health": "ok"
+    },
+    {
+      "id": "recursive/flint-v1.0:free",
+      "name": "Recursive: Flint (free)",
+      "provider": "Recursive",
+      "context_window": 262144,
+      "max_output": 235929,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/recursive/flint-v1.0:free",
+      "created": 1792622765,
+      "kind": "chat",
+      "zo_score": 53,
+      "health": "sick"
+    },
+    {
+      "id": "xingchen-agi/xing4.0-29b-a4b:free",
+      "name": "XingChen: Xing4.0 29B A4B (free)",
+      "provider": "Xingchen agi",
+      "context_window": 262144,
+      "max_output": 235929,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free",
+      "created": 1792177496,
+      "kind": "chat",
+      "zo_score": 47,
+      "health": "sick"
+    },
+    {
+      "id": "cohere/north-mini-code:free",
+      "name": "Cohere: North Mini Code (free)",
+      "provider": "Cohere",
+      "context_window": 256000,
+      "max_output": 64000,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/cohere/north-mini-code:free",
+      "created": 1781723748,
+      "kind": "chat",
+      "zo_score": 42,
+      "health": "sick"
+    },
+    {
+      "id": "dots-studio/dots-3-note-preview:free",
+      "name": "Dots Studio: Dots3-Note Preview (free)",
+      "provider": "Dots studio",
+      "context_window": 512000,
+      "max_output": 460800,
+      "modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": "2026-12-31",
+      "notes": "",
+      "source": "https://openrouter.ai/dots-studio/dots-3-note-preview:free",
+      "created": 1786680361,
+      "kind": "chat",
+      "zo_score": 14,
+      "health": "sick"
+    },
+    {
+      "id": "thinkingmachines/inkling-small:free",
+      "name": "Thinking Machines: Inkling Small (free)",
+      "provider": "Thinkingmachines",
+      "context_window": 1048576,
+      "max_output": 262144,
+      "modalities": [
+        "text",
+        "image",
+        "audio"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/thinkingmachines/inkling-small:free",
+      "created": 1785443117,
+      "kind": "chat",
+      "zo_score": null,
+      "health": null
+    },
+    {
+      "id": "thinkingmachines/inkling:free",
+      "name": "Thinking Machines: Inkling (free)",
+      "provider": "Thinkingmachines",
+      "context_window": 1048576,
+      "max_output": 262144,
+      "modalities": [
+        "text",
+        "image",
+        "audio"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/thinkingmachines/inkling:free",
+      "created": 1784325956,
+      "kind": "chat",
+      "zo_score": null,
+      "health": null
+    },
+    {
+      "id": "google/lyria-3-pro-preview",
+      "name": "Google: Lyria 3 Pro Preview",
+      "provider": "Google",
+      "context_window": 1048576,
+      "max_output": 65536,
+      "modalities": [
+        "text",
+        "image",
+        "audio"
+      ],
+      "output_modalities": [
+        "text",
+        "audio"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/google/lyria-3-pro-preview",
+      "created": 1774907286,
+      "kind": "other",
+      "zo_score": null,
+      "health": null
+    },
+    {
+      "id": "google/lyria-3-clip-preview",
+      "name": "Google: Lyria 3 Clip Preview",
+      "provider": "Google",
+      "context_window": 1048576,
+      "max_output": 65536,
+      "modalities": [
+        "text",
+        "image",
+        "audio"
+      ],
+      "output_modalities": [
+        "text",
+        "audio"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/google/lyria-3-clip-preview",
+      "created": 1774907255,
+      "kind": "other",
+      "zo_score": null,
+      "health": null
+    },
+    {
+      "id": "nvidia/nemotron-3.5-super-vl:free",
+      "name": "NVIDIA: Nemotron 3.5 Super VL (free)",
+      "provider": "Nvidia",
+      "context_window": 1000000,
+      "max_output": 131072,
+      "modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free",
+      "created": 1792076662,
+      "kind": "chat",
+      "zo_score": null,
+      "health": null
+    },
+    {
+      "id": "nvidia/nemotron-3.5-lightning:free",
+      "name": "NVIDIA: Nemotron 3.5 Lightning (free)",
+      "provider": "Nvidia",
+      "context_window": 1000000,
+      "max_output": 65536,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free",
+      "created": 1786452751,
+      "kind": "chat",
+      "zo_score": null,
+      "health": null
+    },
+    {
+      "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "name": "NVIDIA: Nemotron 3 Ultra (free)",
+      "provider": "Nvidia",
+      "context_window": 1000000,
+      "max_output": 65536,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free",
+      "created": 1780551208,
+      "kind": "chat",
+      "zo_score": null,
+      "health": null
+    },
+    {
+      "id": "poolside/laguna-s-2.1:free",
+      "name": "Poolside: Laguna S 2.1 (free)",
+      "provider": "Poolside",
+      "context_window": 262144,
+      "max_output": 32768,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": "2026-10-31",
+      "notes": "",
+      "source": "https://openrouter.ai/poolside/laguna-s-2.1:free",
+      "created": 1784652683,
+      "kind": "chat",
+      "zo_score": null,
+      "health": null
+    },
+    {
+      "id": "poolside/laguna-xs-2.1:free",
+      "name": "Poolside: Laguna XS 2.1 (free)",
+      "provider": "Poolside",
+      "context_window": 262144,
+      "max_output": 32768,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": "2026-10-31",
+      "notes": "",
+      "source": "https://openrouter.ai/poolside/laguna-xs-2.1:free",
+      "created": 1783002429,
+      "kind": "chat",
+      "zo_score": null,
+      "health": null
+    },
+    {
+      "id": "nvidia/nemotron-3-super-120b-a12b:free",
+      "name": "NVIDIA: Nemotron 3 Super (free)",
+      "provider": "Nvidia",
+      "context_window": 262144,
+      "max_output": 235929,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b:free",
+      "created": 1773245239,
+      "kind": "chat",
+      "zo_score": null,
+      "health": null
+    },
+    {
+      "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+      "name": "NVIDIA: Nemotron 3 Nano Omni (free)",
+      "provider": "Nvidia",
+      "context_window": 256000,
+      "max_output": 65536,
+      "modalities": [
+        "text",
+        "audio",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+      "created": 1777393095,
+      "kind": "chat",
+      "zo_score": null,
+      "health": null
+    },
+    {
+      "id": "openrouter/free",
+      "name": "Free Models Router",
+      "provider": "Openrouter",
+      "context_window": 200000,
+      "max_output": null,
+      "modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/openrouter/free",
+      "created": 1769917427,
+      "kind": "chat",
+      "zo_score": null,
+      "health": null
+    },
+    {
+      "id": "nvidia/nemotron-3.5-content-safety:free",
+      "name": "NVIDIA: Nemotron 3.5 Content Safety (free)",
+      "provider": "Nvidia",
+      "context_window": 128000,
+      "max_output": 8192,
+      "modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free",
+      "created": 1780581864,
+      "kind": "chat",
+      "zo_score": null,
+      "health": null
+    },
+    {
+      "id": "liquid/lfm-2.5-2.6b:free",
+      "name": "LiquidAI: LFM2.5-2.6B (free)",
+      "provider": "Liquid",
+      "context_window": 65536,
+      "max_output": 8192,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/liquid/lfm-2.5-2.6b:free",
+      "created": 1786470519,
+      "kind": "chat",
+      "zo_score": null,
+      "health": null
+    },
+    {
+      "id": "pollinations/openai-fast",
+      "name": "GPT-OSS 20B Reasoning LLM (OVH)",
+      "provider": "Pollinations AI",
+      "context_window": null,
+      "max_output": null,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "anonymous tier (no key)",
+      "expires": null,
+      "notes": "No API key required",
+      "source": "https://pollinations.ai",
+      "kind": "chat",
+      "zo_score": null,
+      "health": null
+    }
+  ]
+}
