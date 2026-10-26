@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T09:18:43.028Z",
+  "updated_at": "2026-10-26T10:01:07.845Z",
   "total_free_models": 21,
   "sources": [
     "openrouter.ai/api/v1/models",
@@ -28,7 +28,7 @@
       "created": 1775227989,
       "kind": "chat",
       "zo_score": 100,
-      "health": "ok"
+      "health": "sick"
     },
     {
       "id": "google/gemma-4-31b-it:free",
@@ -51,7 +51,49 @@
       "created": 1775148486,
       "kind": "chat",
       "zo_score": 62,
-      "health": "ok"
+      "health": "sick"
+    },
+    {
+      "id": "poolside/laguna-s-2.1:free",
+      "name": "Poolside: Laguna S 2.1 (free)",
+      "provider": "Poolside",
+      "context_window": 262144,
+      "max_output": 32768,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": "2026-10-31",
+      "notes": "",
+      "source": "https://openrouter.ai/poolside/laguna-s-2.1:free",
+      "created": 1784652683,
+      "kind": "chat",
+      "zo_score": 51,
+      "health": "sick"
+    },
+    {
+      "id": "poolside/laguna-xs-2.1:free",
+      "name": "Poolside: Laguna XS 2.1 (free)",
+      "provider": "Poolside",
+      "context_window": 262144,
+      "max_output": 32768,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": "2026-10-31",
+      "notes": "",
+      "source": "https://openrouter.ai/poolside/laguna-xs-2.1:free",
+      "created": 1783002429,
+      "kind": "chat",
+      "zo_score": 38,
+      "health": "sick"
     },
     {
       "id": "recursive/flint-v1.0:free",
@@ -71,7 +113,28 @@
       "source": "https://openrouter.ai/recursive/flint-v1.0:free",
       "created": 1792622765,
       "kind": "chat",
-      "zo_score": 32,
+      "zo_score": 26,
+      "health": "ok"
+    },
+    {
+      "id": "cohere/north-mini-code:free",
+      "name": "Cohere: North Mini Code (free)",
+      "provider": "Cohere",
+      "context_window": 256000,
+      "max_output": 64000,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/cohere/north-mini-code:free",
+      "created": 1781723748,
+      "kind": "chat",
+      "zo_score": 4,
       "health": "ok"
     },
     {
@@ -93,7 +156,7 @@
       "source": "https://openrouter.ai/dots-studio/dots-3-note-preview:free",
       "created": 1786680361,
       "kind": "chat",
-      "zo_score": 17,
+      "zo_score": 0,
       "health": "ok"
     },
     {
@@ -113,27 +176,6 @@
       "notes": "",
       "source": "https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free",
       "created": 1792177496,
-      "kind": "chat",
-      "zo_score": 0,
-      "health": "ok"
-    },
-    {
-      "id": "cohere/north-mini-code:free",
-      "name": "Cohere: North Mini Code (free)",
-      "provider": "Cohere",
-      "context_window": 256000,
-      "max_output": 64000,
-      "modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
-      "notes": "",
-      "source": "https://openrouter.ai/cohere/north-mini-code:free",
-      "created": 1781723748,
       "kind": "chat",
       "zo_score": 0,
       "health": "ok"
@@ -293,48 +335,6 @@
       "notes": "",
       "source": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free",
       "created": 1780551208,
-      "kind": "chat",
-      "zo_score": null,
-      "health": null
-    },
-    {
-      "id": "poolside/laguna-s-2.1:free",
-      "name": "Poolside: Laguna S 2.1 (free)",
-      "provider": "Poolside",
-      "context_window": 262144,
-      "max_output": 32768,
-      "modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": "2026-10-31",
-      "notes": "",
-      "source": "https://openrouter.ai/poolside/laguna-s-2.1:free",
-      "created": 1784652683,
-      "kind": "chat",
-      "zo_score": null,
-      "health": null
-    },
-    {
-      "id": "poolside/laguna-xs-2.1:free",
-      "name": "Poolside: Laguna XS 2.1 (free)",
-      "provider": "Poolside",
-      "context_window": 262144,
-      "max_output": 32768,
-      "modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": "2026-10-31",
-      "notes": "",
-      "source": "https://openrouter.ai/poolside/laguna-xs-2.1:free",
-      "created": 1783002429,
       "kind": "chat",
       "zo_score": null,
       "health": null
