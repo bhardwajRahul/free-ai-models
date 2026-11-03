@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T12:13:43.520Z",
+  "updated_at": "2026-11-03T11:47:49.583Z",
   "total_free_models": 18,
   "sources": [
     "openrouter.ai/api/v1/models",
@@ -28,7 +28,7 @@
       "created": 1775227989,
       "kind": "chat",
       "zo_score": 100,
-      "health": "ok"
+      "health": "sick"
     },
     {
       "id": "google/gemma-4-31b-it:free",
@@ -50,49 +50,7 @@
       "source": "https://openrouter.ai/google/gemma-4-31b-it:free",
       "created": 1775148486,
       "kind": "chat",
-      "zo_score": 76,
-      "health": "ok"
-    },
-    {
-      "id": "cohere/north-mini-code:free",
-      "name": "Cohere: North Mini Code (free)",
-      "provider": "Cohere",
-      "context_window": 256000,
-      "max_output": 64000,
-      "modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
-      "notes": "",
-      "source": "https://openrouter.ai/cohere/north-mini-code:free",
-      "created": 1781723748,
-      "kind": "chat",
-      "zo_score": 64,
-      "health": "ok"
-    },
-    {
-      "id": "xingchen-agi/xing4.0-29b-a4b:free",
-      "name": "XingChen: Xing4.0 29B A4B (free)",
-      "provider": "Xingchen agi",
-      "context_window": 262144,
-      "max_output": 235929,
-      "modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
-      "notes": "",
-      "source": "https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free",
-      "created": 1792177496,
-      "kind": "chat",
-      "zo_score": 55,
+      "zo_score": 89,
       "health": "ok"
     },
     {
@@ -113,7 +71,49 @@
       "source": "https://openrouter.ai/recursive/flint-v1.0:free",
       "created": 1792622765,
       "kind": "chat",
-      "zo_score": 48,
+      "zo_score": 56,
+      "health": "sick"
+    },
+    {
+      "id": "cohere/north-mini-code:free",
+      "name": "Cohere: North Mini Code (free)",
+      "provider": "Cohere",
+      "context_window": 256000,
+      "max_output": 64000,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/cohere/north-mini-code:free",
+      "created": 1781723748,
+      "kind": "chat",
+      "zo_score": 56,
+      "health": "ok"
+    },
+    {
+      "id": "xingchen-agi/xing4.0-29b-a4b:free",
+      "name": "XingChen: Xing4.0 29B A4B (free)",
+      "provider": "Xingchen agi",
+      "context_window": 262144,
+      "max_output": 235929,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free",
+      "created": 1792177496,
+      "kind": "chat",
+      "zo_score": 44,
       "health": "ok"
     },
     {
@@ -135,7 +135,7 @@
       "source": "https://openrouter.ai/dots-studio/dots-3-note-preview:free",
       "created": 1786680361,
       "kind": "chat",
-      "zo_score": 29,
+      "zo_score": 0,
       "health": "ok"
     },
     {
@@ -153,7 +153,7 @@
         "text"
       ],
       "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
+      "expires": "2026-11-04",
       "notes": "",
       "source": "https://openrouter.ai/thinkingmachines/inkling-small:free",
       "created": 1785443117,
@@ -176,7 +176,7 @@
         "text"
       ],
       "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
+      "expires": "2026-11-04",
       "notes": "",
       "source": "https://openrouter.ai/thinkingmachines/inkling:free",
       "created": 1784325956,
