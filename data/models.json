@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T11:47:49.583Z",
-  "total_free_models": 18,
+  "updated_at": "2026-11-04T12:04:18.402Z",
+  "total_free_models": 19,
   "sources": [
     "openrouter.ai/api/v1/models",
     "text.pollinations.ai/models",
@@ -28,7 +28,7 @@
       "created": 1775227989,
       "kind": "chat",
       "zo_score": 100,
-      "health": "sick"
+      "health": "ok"
     },
     {
       "id": "google/gemma-4-31b-it:free",
@@ -50,7 +50,28 @@
       "source": "https://openrouter.ai/google/gemma-4-31b-it:free",
       "created": 1775148486,
       "kind": "chat",
-      "zo_score": 89,
+      "zo_score": 67,
+      "health": "ok"
+    },
+    {
+      "id": "cohere/north-mini-code:free",
+      "name": "Cohere: North Mini Code (free)",
+      "provider": "Cohere",
+      "context_window": 256000,
+      "max_output": 64000,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/cohere/north-mini-code:free",
+      "created": 1781723748,
+      "kind": "chat",
+      "zo_score": 42,
       "health": "ok"
     },
     {
@@ -71,28 +92,7 @@
       "source": "https://openrouter.ai/recursive/flint-v1.0:free",
       "created": 1792622765,
       "kind": "chat",
-      "zo_score": 56,
-      "health": "sick"
-    },
-    {
-      "id": "cohere/north-mini-code:free",
-      "name": "Cohere: North Mini Code (free)",
-      "provider": "Cohere",
-      "context_window": 256000,
-      "max_output": 64000,
-      "modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
-      "notes": "",
-      "source": "https://openrouter.ai/cohere/north-mini-code:free",
-      "created": 1781723748,
-      "kind": "chat",
-      "zo_score": 56,
+      "zo_score": 27,
       "health": "ok"
     },
     {
@@ -113,7 +113,7 @@
       "source": "https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free",
       "created": 1792177496,
       "kind": "chat",
-      "zo_score": 44,
+      "zo_score": 27,
       "health": "ok"
     },
     {
@@ -135,8 +135,33 @@
       "source": "https://openrouter.ai/dots-studio/dots-3-note-preview:free",
       "created": 1786680361,
       "kind": "chat",
-      "zo_score": 0,
+      "zo_score": 25,
       "health": "ok"
+    },
+    {
+      "id": "stealth/crouton-alpha",
+      "name": "Crouton Alpha",
+      "provider": "Stealth",
+      "context_window": 1048576,
+      "max_output": 943718,
+      "modalities": [
+        "text",
+        "image",
+        "video",
+        "file",
+        "audio"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/stealth/crouton-alpha",
+      "created": 1793669930,
+      "kind": "chat",
+      "zo_score": null,
+      "health": null
     },
     {
       "id": "thinkingmachines/inkling-small:free",
