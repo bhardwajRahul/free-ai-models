@@ -62,27 +62,25 @@ Each model entry includes:
 ## Free models (auto-updated daily)
 
 <!-- TABLE_START -->
-> Last updated: **Wed, 04 Nov 2026 12:04:18 UTC** · 17 chat models · ranked by [ZeroOptimize](https://www.zerolimitai.com/leaderboard) score, then context window · rate limits are the provider's, per account[^or][^poll]
+> Last updated: **Thu, 05 Nov 2026 12:06:44 UTC** · 15 chat models · ranked by [ZeroOptimize](https://www.zerolimitai.com/leaderboard) score, then context window · rate limits are the provider's, per account[^or][^poll]
 
 | # | Model | Provider | Context | Max output | Modalities | Rate Limit | Score | Today | Source |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | **Google: Gemma 4 26B A4B  (free)** | Google | 262K | 33K | 🖼️ vision, 💬 text, video | 20 RPM · 50 RPD | 100 | ✅ up | [link](https://openrouter.ai/google/gemma-4-26b-a4b-it:free) |
-| 2 | **Google: Gemma 4 31B (free)** | Google | 262K | 33K | 🖼️ vision, 💬 text, video | 20 RPM · 50 RPD | 67 | ✅ up | [link](https://openrouter.ai/google/gemma-4-31b-it:free) |
-| 3 | **Cohere: North Mini Code (free)** | Cohere | 256K | 64K | 💬 text | 20 RPM · 50 RPD | 42 | ✅ up | [link](https://openrouter.ai/cohere/north-mini-code:free) |
-| 4 | **Recursive: Flint (free)** | Recursive | 262K | 236K | 💬 text | 20 RPM · 50 RPD | 27 | ✅ up | [link](https://openrouter.ai/recursive/flint-v1.0:free) |
-| 5 | **XingChen: Xing4.0 29B A4B (free)** | Xingchen agi | 262K | 236K | 💬 text | 20 RPM · 50 RPD | 27 | ✅ up | [link](https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free) |
-| 6 | **Dots Studio: Dots3-Note Preview (free)** <br><sub>⏳ retiring 2026-12-31</sub> | Dots studio | 512K | 461K | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | 25 | ✅ up | [link](https://openrouter.ai/dots-studio/dots-3-note-preview:free) |
+| 1 | **Google: Gemma 4 31B (free)** | Google | 262K | 33K | 🖼️ vision, 💬 text, video | 20 RPM · 50 RPD | 100 | ⚠️ degraded | [link](https://openrouter.ai/google/gemma-4-31b-it:free) |
+| 2 | **Google: Gemma 4 26B A4B  (free)** | Google | 262K | 33K | 🖼️ vision, 💬 text, video | 20 RPM · 50 RPD | 61 | ⚠️ degraded | [link](https://openrouter.ai/google/gemma-4-26b-a4b-it:free) |
+| 3 | **XingChen: Xing4.0 29B A4B (free)** | Xingchen agi | 262K | 236K | 💬 text | 20 RPM · 50 RPD | 32 | ⚠️ degraded | [link](https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free) |
+| 4 | **Cohere: North Mini Code (free)** | Cohere | 256K | 64K | 💬 text | 20 RPM · 50 RPD | 25 | ⚠️ degraded | [link](https://openrouter.ai/cohere/north-mini-code:free) |
+| 5 | **Dots Studio: Dots3-Note Preview (free)** <br><sub>⏳ retiring 2026-12-31</sub> | Dots studio | 512K | 461K | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | 0 | ✅ up | [link](https://openrouter.ai/dots-studio/dots-3-note-preview:free) |
+| 6 | **Recursive: Flint (free)** | Recursive | 262K | 236K | 💬 text | 20 RPM · 50 RPD | 0 | ✅ up | [link](https://openrouter.ai/recursive/flint-v1.0:free) |
 | 7 | **Crouton Alpha** | Stealth | 1M | 944K | 💬 text, 🖼️ vision, video, 📄 files, audio | 20 RPM · 50 RPD | — | — | [link](https://openrouter.ai/stealth/crouton-alpha) |
-| 8 | **Thinking Machines: Inkling Small (free)** <br><sub>⏳ retiring 2026-11-04</sub> | Thinkingmachines | 1M | 262K | 💬 text, 🖼️ vision, audio | 20 RPM · 50 RPD | — | — | [link](https://openrouter.ai/thinkingmachines/inkling-small:free) |
-| 9 | **Thinking Machines: Inkling (free)** <br><sub>⏳ retiring 2026-11-04</sub> | Thinkingmachines | 1M | 262K | 💬 text, 🖼️ vision, audio | 20 RPM · 50 RPD | — | — | [link](https://openrouter.ai/thinkingmachines/inkling:free) |
-| 10 | **NVIDIA: Nemotron 3.5 Super VL (free)** | Nvidia | 1M | 131K | 💬 text, 🖼️ vision, video | 20 RPM · 50 RPD | — | — | [link](https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free) |
-| 11 | **NVIDIA: Nemotron 3.5 Lightning (free)** | Nvidia | 1M | 66K | 💬 text | 20 RPM · 50 RPD | — | — | [link](https://openrouter.ai/nvidia/nemotron-3.5-lightning:free) |
-| 12 | **NVIDIA: Nemotron 3 Ultra (free)** | Nvidia | 1M | 66K | 💬 text | 20 RPM · 50 RPD | — | — | [link](https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free) |
-| 13 | **NVIDIA: Nemotron 3 Nano Omni (free)** | Nvidia | 256K | 66K | 💬 text, audio, 🖼️ vision, video | 20 RPM · 50 RPD | — | — | [link](https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free) |
-| 14 | **Free Models Router** | Openrouter | 200K | — | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | — | — | [link](https://openrouter.ai/openrouter/free) |
-| 15 | **NVIDIA: Nemotron 3.5 Content Safety (free)** | Nvidia | 128K | 8K | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | — | — | [link](https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free) |
-| 16 | **LiquidAI: LFM2.5-2.6B (free)** | Liquid | 66K | 8K | 💬 text | 20 RPM · 50 RPD | — | — | [link](https://openrouter.ai/liquid/lfm-2.5-2.6b:free) |
-| 17 | **GPT-OSS 20B Reasoning LLM (OVH)** | Pollinations AI | — | — | 💬 text | anonymous tier (no key) | — | — | [link](https://pollinations.ai) |
+| 8 | **NVIDIA: Nemotron 3.5 Super VL (free)** | Nvidia | 1M | 131K | 💬 text, 🖼️ vision, video | 20 RPM · 50 RPD | — | — | [link](https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free) |
+| 9 | **NVIDIA: Nemotron 3.5 Lightning (free)** | Nvidia | 1M | 66K | 💬 text | 20 RPM · 50 RPD | — | — | [link](https://openrouter.ai/nvidia/nemotron-3.5-lightning:free) |
+| 10 | **NVIDIA: Nemotron 3 Ultra (free)** | Nvidia | 1M | 66K | 💬 text | 20 RPM · 50 RPD | — | — | [link](https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free) |
+| 11 | **NVIDIA: Nemotron 3 Nano Omni (free)** | Nvidia | 256K | 66K | 💬 text, audio, 🖼️ vision, video | 20 RPM · 50 RPD | — | — | [link](https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free) |
+| 12 | **Free Models Router** | Openrouter | 200K | — | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | — | — | [link](https://openrouter.ai/openrouter/free) |
+| 13 | **NVIDIA: Nemotron 3.5 Content Safety (free)** | Nvidia | 128K | 8K | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | — | — | [link](https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free) |
+| 14 | **LiquidAI: LFM2.5-2.6B (free)** | Liquid | 66K | 8K | 💬 text | 20 RPM · 50 RPD | — | — | [link](https://openrouter.ai/liquid/lfm-2.5-2.6b:free) |
+| 15 | **GPT-OSS 20B Reasoning LLM (OVH)** | Pollinations AI | — | — | 💬 text | anonymous tier (no key) | — | — | [link](https://pollinations.ai) |
 
 2 free models that are not chat models (music, image, audio generation):
 
