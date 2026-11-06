@@ -1,35 +1,12 @@
 {
-  "updated_at": "2026-11-05T12:06:44.887Z",
-  "total_free_models": 17,
+  "updated_at": "2026-11-06T12:00:58.259Z",
+  "total_free_models": 16,
   "sources": [
     "openrouter.ai/api/v1/models",
     "text.pollinations.ai/models",
     "zerolimitai.com/api/models/free-top"
   ],
   "models": [
-    {
-      "id": "google/gemma-4-31b-it:free",
-      "name": "Google: Gemma 4 31B (free)",
-      "provider": "Google",
-      "context_window": 262144,
-      "max_output": 32768,
-      "modalities": [
-        "image",
-        "text",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
-      "notes": "",
-      "source": "https://openrouter.ai/google/gemma-4-31b-it:free",
-      "created": 1775148486,
-      "kind": "chat",
-      "zo_score": 100,
-      "health": "sick"
-    },
     {
       "id": "google/gemma-4-26b-a4b-it:free",
       "name": "Google: Gemma 4 26B A4B  (free)",
@@ -50,17 +27,19 @@
       "source": "https://openrouter.ai/google/gemma-4-26b-a4b-it:free",
       "created": 1775227989,
       "kind": "chat",
-      "zo_score": 61,
+      "zo_score": 100,
       "health": "sick"
     },
     {
-      "id": "xingchen-agi/xing4.0-29b-a4b:free",
-      "name": "XingChen: Xing4.0 29B A4B (free)",
-      "provider": "Xingchen agi",
+      "id": "google/gemma-4-31b-it:free",
+      "name": "Google: Gemma 4 31B (free)",
+      "provider": "Google",
       "context_window": 262144,
-      "max_output": 235929,
+      "max_output": 32768,
       "modalities": [
-        "text"
+        "image",
+        "text",
+        "video"
       ],
       "output_modalities": [
         "text"
@@ -68,11 +47,11 @@
       "rate_limit": "20 RPM · 50 RPD",
       "expires": null,
       "notes": "",
-      "source": "https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free",
-      "created": 1792177496,
+      "source": "https://openrouter.ai/google/gemma-4-31b-it:free",
+      "created": 1775148486,
       "kind": "chat",
-      "zo_score": 32,
-      "health": "sick"
+      "zo_score": 95,
+      "health": "ok"
     },
     {
       "id": "cohere/north-mini-code:free",
@@ -92,8 +71,29 @@
       "source": "https://openrouter.ai/cohere/north-mini-code:free",
       "created": 1781723748,
       "kind": "chat",
-      "zo_score": 25,
-      "health": "sick"
+      "zo_score": 41,
+      "health": "ok"
+    },
+    {
+      "id": "xingchen-agi/xing4.0-29b-a4b:free",
+      "name": "XingChen: Xing4.0 29B A4B (free)",
+      "provider": "Xingchen agi",
+      "context_window": 262144,
+      "max_output": 235929,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free",
+      "created": 1792177496,
+      "kind": "chat",
+      "zo_score": 7,
+      "health": "ok"
     },
     {
       "id": "dots-studio/dots-3-note-preview:free",
@@ -318,28 +318,6 @@
       "notes": "",
       "source": "https://openrouter.ai/openrouter/free",
       "created": 1769917427,
-      "kind": "chat",
-      "zo_score": null,
-      "health": null
-    },
-    {
-      "id": "nvidia/nemotron-3.5-content-safety:free",
-      "name": "NVIDIA: Nemotron 3.5 Content Safety (free)",
-      "provider": "Nvidia",
-      "context_window": 128000,
-      "max_output": 8192,
-      "modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
-      "notes": "",
-      "source": "https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free",
-      "created": 1780581864,
       "kind": "chat",
       "zo_score": null,
       "health": null

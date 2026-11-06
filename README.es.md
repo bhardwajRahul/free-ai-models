@@ -62,14 +62,14 @@ Cada modelo incluye:
 ## Modelos gratis (actualizados a diario)
 
 <!-- TABLE_START -->
-> Última actualización: **Thu, 05 Nov 2026 12:06:44 UTC** · 15 modelos de chat · ordenados por puntuación [ZeroOptimize](https://www.zerolimitai.com/leaderboard) y después por contexto · los límites son del proveedor, por cuenta
+> Última actualización: **Fri, 06 Nov 2026 12:00:58 UTC** · 14 modelos de chat · ordenados por puntuación [ZeroOptimize](https://www.zerolimitai.com/leaderboard) y después por contexto · los límites son del proveedor, por cuenta
 
 | # | Modelo | Proveedor | Contexto | Salida máx. | Modalidades | Límite de uso | Puntuación | Hoy | Fuente |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | **Google: Gemma 4 31B (free)** | Google | 262K | 33K | 🖼️ vision, 💬 text, video | 20 RPM · 50 RPD | 100 | ⚠️ degradado | [enlace](https://openrouter.ai/google/gemma-4-31b-it:free) |
-| 2 | **Google: Gemma 4 26B A4B  (free)** | Google | 262K | 33K | 🖼️ vision, 💬 text, video | 20 RPM · 50 RPD | 61 | ⚠️ degradado | [enlace](https://openrouter.ai/google/gemma-4-26b-a4b-it:free) |
-| 3 | **XingChen: Xing4.0 29B A4B (free)** | Xingchen agi | 262K | 236K | 💬 text | 20 RPM · 50 RPD | 32 | ⚠️ degradado | [enlace](https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free) |
-| 4 | **Cohere: North Mini Code (free)** | Cohere | 256K | 64K | 💬 text | 20 RPM · 50 RPD | 25 | ⚠️ degradado | [enlace](https://openrouter.ai/cohere/north-mini-code:free) |
+| 1 | **Google: Gemma 4 26B A4B  (free)** | Google | 262K | 33K | 🖼️ vision, 💬 text, video | 20 RPM · 50 RPD | 100 | ⚠️ degradado | [enlace](https://openrouter.ai/google/gemma-4-26b-a4b-it:free) |
+| 2 | **Google: Gemma 4 31B (free)** | Google | 262K | 33K | 🖼️ vision, 💬 text, video | 20 RPM · 50 RPD | 95 | ✅ activo | [enlace](https://openrouter.ai/google/gemma-4-31b-it:free) |
+| 3 | **Cohere: North Mini Code (free)** | Cohere | 256K | 64K | 💬 text | 20 RPM · 50 RPD | 41 | ✅ activo | [enlace](https://openrouter.ai/cohere/north-mini-code:free) |
+| 4 | **XingChen: Xing4.0 29B A4B (free)** | Xingchen agi | 262K | 236K | 💬 text | 20 RPM · 50 RPD | 7 | ✅ activo | [enlace](https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free) |
 | 5 | **Dots Studio: Dots3-Note Preview (free)** <br><sub>⏳ se retira el 2026-12-31</sub> | Dots studio | 512K | 461K | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | 0 | ✅ activo | [enlace](https://openrouter.ai/dots-studio/dots-3-note-preview:free) |
 | 6 | **Recursive: Flint (free)** | Recursive | 262K | 236K | 💬 text | 20 RPM · 50 RPD | 0 | ✅ activo | [enlace](https://openrouter.ai/recursive/flint-v1.0:free) |
 | 7 | **Crouton Alpha** | Stealth | 1M | 944K | 💬 text, 🖼️ vision, video, 📄 files, audio | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/stealth/crouton-alpha) |
@@ -78,9 +78,8 @@ Cada modelo incluye:
 | 10 | **NVIDIA: Nemotron 3 Ultra (free)** | Nvidia | 1M | 66K | 💬 text | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free) |
 | 11 | **NVIDIA: Nemotron 3 Nano Omni (free)** | Nvidia | 256K | 66K | 💬 text, audio, 🖼️ vision, video | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free) |
 | 12 | **Free Models Router** | Openrouter | 200K | — | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/openrouter/free) |
-| 13 | **NVIDIA: Nemotron 3.5 Content Safety (free)** | Nvidia | 128K | 8K | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free) |
-| 14 | **LiquidAI: LFM2.5-2.6B (free)** | Liquid | 66K | 8K | 💬 text | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/liquid/lfm-2.5-2.6b:free) |
-| 15 | **GPT-OSS 20B Reasoning LLM (OVH)** | Pollinations AI | — | — | 💬 text | anonymous tier (no key) | — | — | [enlace](https://pollinations.ai) |
+| 13 | **LiquidAI: LFM2.5-2.6B (free)** | Liquid | 66K | 8K | 💬 text | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/liquid/lfm-2.5-2.6b:free) |
+| 14 | **GPT-OSS 20B Reasoning LLM (OVH)** | Pollinations AI | — | — | 💬 text | anonymous tier (no key) | — | — | [enlace](https://pollinations.ai) |
 
 2 modelos gratuitos que no son de chat (generación de música, imagen o audio):
 
