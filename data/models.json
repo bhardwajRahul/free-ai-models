@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T12:00:58.259Z",
-  "total_free_models": 16,
+  "updated_at": "2026-11-07T11:00:22.459Z",
+  "total_free_models": 17,
   "sources": [
     "openrouter.ai/api/v1/models",
     "text.pollinations.ai/models",
@@ -50,29 +50,8 @@
       "source": "https://openrouter.ai/google/gemma-4-31b-it:free",
       "created": 1775148486,
       "kind": "chat",
-      "zo_score": 95,
-      "health": "ok"
-    },
-    {
-      "id": "cohere/north-mini-code:free",
-      "name": "Cohere: North Mini Code (free)",
-      "provider": "Cohere",
-      "context_window": 256000,
-      "max_output": 64000,
-      "modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
-      "notes": "",
-      "source": "https://openrouter.ai/cohere/north-mini-code:free",
-      "created": 1781723748,
-      "kind": "chat",
-      "zo_score": 41,
-      "health": "ok"
+      "zo_score": 91,
+      "health": "sick"
     },
     {
       "id": "xingchen-agi/xing4.0-29b-a4b:free",
@@ -92,8 +71,29 @@
       "source": "https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free",
       "created": 1792177496,
       "kind": "chat",
-      "zo_score": 7,
-      "health": "ok"
+      "zo_score": 9,
+      "health": "sick"
+    },
+    {
+      "id": "recursive/flint-v1.0:free",
+      "name": "Recursive: Flint (free)",
+      "provider": "Recursive",
+      "context_window": 262144,
+      "max_output": 235929,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/recursive/flint-v1.0:free",
+      "created": 1792622765,
+      "kind": "chat",
+      "zo_score": 3,
+      "health": "sick"
     },
     {
       "id": "dots-studio/dots-3-note-preview:free",
@@ -115,14 +115,14 @@
       "created": 1786680361,
       "kind": "chat",
       "zo_score": 0,
-      "health": "ok"
+      "health": "sick"
     },
     {
-      "id": "recursive/flint-v1.0:free",
-      "name": "Recursive: Flint (free)",
-      "provider": "Recursive",
-      "context_window": 262144,
-      "max_output": 235929,
+      "id": "cohere/north-mini-code:free",
+      "name": "Cohere: North Mini Code (free)",
+      "provider": "Cohere",
+      "context_window": 256000,
+      "max_output": 64000,
       "modalities": [
         "text"
       ],
@@ -132,11 +132,11 @@
       "rate_limit": "20 RPM · 50 RPD",
       "expires": null,
       "notes": "",
-      "source": "https://openrouter.ai/recursive/flint-v1.0:free",
-      "created": 1792622765,
+      "source": "https://openrouter.ai/cohere/north-mini-code:free",
+      "created": 1781723748,
       "kind": "chat",
       "zo_score": 0,
-      "health": "ok"
+      "health": "sick"
     },
     {
       "id": "stealth/crouton-alpha",
@@ -277,6 +277,27 @@
       "health": null
     },
     {
+      "id": "liquid/lfm-3-1.7b:free",
+      "name": "LiquidAI: LFM3-1.7B (free)",
+      "provider": "Liquid",
+      "context_window": 262144,
+      "max_output": 8192,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/liquid/lfm-3-1.7b:free",
+      "created": 1794009477,
+      "kind": "chat",
+      "zo_score": null,
+      "health": null
+    },
+    {
       "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
       "name": "NVIDIA: Nemotron 3 Nano Omni (free)",
       "provider": "Nvidia",
@@ -335,7 +356,7 @@
         "text"
       ],
       "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
+      "expires": "2026-11-13",
       "notes": "",
       "source": "https://openrouter.ai/liquid/lfm-2.5-2.6b:free",
       "created": 1786470519,
