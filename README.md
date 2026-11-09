@@ -62,16 +62,16 @@ Each model entry includes:
 ## Free models (auto-updated daily)
 
 <!-- TABLE_START -->
-> Last updated: **Sun, 08 Nov 2026 11:11:44 UTC** · 15 chat models · ranked by [ZeroOptimize](https://www.zerolimitai.com/leaderboard) score, then context window · rate limits are the provider's, per account[^or][^poll]
+> Last updated: **Mon, 09 Nov 2026 12:42:51 UTC** · 15 chat models · ranked by [ZeroOptimize](https://www.zerolimitai.com/leaderboard) score, then context window · rate limits are the provider's, per account[^or][^poll]
 
 | # | Model | Provider | Context | Max output | Modalities | Rate Limit | Score | Today | Source |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | **Google: Gemma 4 26B A4B  (free)** | Google | 262K | 33K | 🖼️ vision, 💬 text, video | 20 RPM · 50 RPD | 100 | ✅ up | [link](https://openrouter.ai/google/gemma-4-26b-a4b-it:free) |
 | 2 | **Google: Gemma 4 31B (free)** | Google | 262K | 33K | 🖼️ vision, 💬 text, video | 20 RPM · 50 RPD | 60 | ✅ up | [link](https://openrouter.ai/google/gemma-4-31b-it:free) |
-| 3 | **Cohere: North Mini Code (free)** | Cohere | 256K | 64K | 💬 text | 20 RPM · 50 RPD | 40 | ✅ up | [link](https://openrouter.ai/cohere/north-mini-code:free) |
-| 4 | **Recursive: Flint (free)** | Recursive | 262K | 236K | 💬 text | 20 RPM · 50 RPD | 21 | ✅ up | [link](https://openrouter.ai/recursive/flint-v1.0:free) |
-| 5 | **XingChen: Xing4.0 29B A4B (free)** | Xingchen agi | 262K | 236K | 💬 text | 20 RPM · 50 RPD | 10 | ✅ up | [link](https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free) |
-| 6 | **Dots Studio: Dots3-Note Preview (free)** <br><sub>⏳ retiring 2026-12-31</sub> | Dots studio | 512K | 461K | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | 0 | ✅ up | [link](https://openrouter.ai/dots-studio/dots-3-note-preview:free) |
+| 3 | **Cohere: North Mini Code (free)** | Cohere | 256K | 64K | 💬 text | 20 RPM · 50 RPD | 24 | ✅ up | [link](https://openrouter.ai/cohere/north-mini-code:free) |
+| 4 | **Recursive: Flint (free)** | Recursive | 262K | 236K | 💬 text | 20 RPM · 50 RPD | 19 | ✅ up | [link](https://openrouter.ai/recursive/flint-v1.0:free) |
+| 5 | **Dots Studio: Dots3-Note Preview (free)** <br><sub>⏳ retiring 2026-12-31</sub> | Dots studio | 512K | 461K | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | 0 | ✅ up | [link](https://openrouter.ai/dots-studio/dots-3-note-preview:free) |
+| 6 | **XingChen: Xing4.0 29B A4B (free)** | Xingchen agi | 262K | 236K | 💬 text | 20 RPM · 50 RPD | 0 | ✅ up | [link](https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free) |
 | 7 | **Crouton Alpha** | Stealth | 1M | 944K | 💬 text, 🖼️ vision, video, 📄 files, audio | 20 RPM · 50 RPD | — | — | [link](https://openrouter.ai/stealth/crouton-alpha) |
 | 8 | **NVIDIA: Nemotron 3.5 Super VL (free)** | Nvidia | 1M | 131K | 💬 text, 🖼️ vision, video | 20 RPM · 50 RPD | — | — | [link](https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free) |
 | 9 | **NVIDIA: Nemotron 3.5 Lightning (free)** | Nvidia | 1M | 66K | 💬 text | 20 RPM · 50 RPD | — | — | [link](https://openrouter.ai/nvidia/nemotron-3.5-lightning:free) |

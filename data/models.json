@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T11:11:44.185Z",
+  "updated_at": "2026-11-09T12:42:51.731Z",
   "total_free_models": 17,
   "sources": [
     "openrouter.ai/api/v1/models",
@@ -71,7 +71,7 @@
       "source": "https://openrouter.ai/cohere/north-mini-code:free",
       "created": 1781723748,
       "kind": "chat",
-      "zo_score": 40,
+      "zo_score": 24,
       "health": "ok"
     },
     {
@@ -92,28 +92,7 @@
       "source": "https://openrouter.ai/recursive/flint-v1.0:free",
       "created": 1792622765,
       "kind": "chat",
-      "zo_score": 21,
-      "health": "ok"
-    },
-    {
-      "id": "xingchen-agi/xing4.0-29b-a4b:free",
-      "name": "XingChen: Xing4.0 29B A4B (free)",
-      "provider": "Xingchen agi",
-      "context_window": 262144,
-      "max_output": 235929,
-      "modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
-      "notes": "",
-      "source": "https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free",
-      "created": 1792177496,
-      "kind": "chat",
-      "zo_score": 10,
+      "zo_score": 19,
       "health": "ok"
     },
     {
@@ -134,6 +113,27 @@
       "notes": "",
       "source": "https://openrouter.ai/dots-studio/dots-3-note-preview:free",
       "created": 1786680361,
+      "kind": "chat",
+      "zo_score": 0,
+      "health": "ok"
+    },
+    {
+      "id": "xingchen-agi/xing4.0-29b-a4b:free",
+      "name": "XingChen: Xing4.0 29B A4B (free)",
+      "provider": "Xingchen agi",
+      "context_window": 262144,
+      "max_output": 235929,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free",
+      "created": 1792177496,
       "kind": "chat",
       "zo_score": 0,
       "health": "ok"
