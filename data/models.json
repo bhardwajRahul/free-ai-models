@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T12:24:44.457Z",
+  "updated_at": "2026-11-11T11:46:14.275Z",
   "total_free_models": 17,
   "sources": [
     "openrouter.ai/api/v1/models",
@@ -28,7 +28,7 @@
       "created": 1775227989,
       "kind": "chat",
       "zo_score": 100,
-      "health": "ok"
+      "health": "sick"
     },
     {
       "id": "google/gemma-4-31b-it:free",
@@ -50,28 +50,7 @@
       "source": "https://openrouter.ai/google/gemma-4-31b-it:free",
       "created": 1775148486,
       "kind": "chat",
-      "zo_score": 69,
-      "health": "ok"
-    },
-    {
-      "id": "recursive/flint-v1.0:free",
-      "name": "Recursive: Flint (free)",
-      "provider": "Recursive",
-      "context_window": 262144,
-      "max_output": 235929,
-      "modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
-      "notes": "",
-      "source": "https://openrouter.ai/recursive/flint-v1.0:free",
-      "created": 1792622765,
-      "kind": "chat",
-      "zo_score": 43,
+      "zo_score": 91,
       "health": "ok"
     },
     {
@@ -92,13 +71,13 @@
       "source": "https://openrouter.ai/cohere/north-mini-code:free",
       "created": 1781723748,
       "kind": "chat",
-      "zo_score": 37,
+      "zo_score": 48,
       "health": "ok"
     },
     {
-      "id": "xingchen-agi/xing4.0-29b-a4b:free",
-      "name": "XingChen: Xing4.0 29B A4B (free)",
-      "provider": "Xingchen agi",
+      "id": "recursive/flint-v1.0:free",
+      "name": "Recursive: Flint (free)",
+      "provider": "Recursive",
       "context_window": 262144,
       "max_output": 235929,
       "modalities": [
@@ -110,10 +89,10 @@
       "rate_limit": "20 RPM · 50 RPD",
       "expires": null,
       "notes": "",
-      "source": "https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free",
-      "created": 1792177496,
+      "source": "https://openrouter.ai/recursive/flint-v1.0:free",
+      "created": 1792622765,
       "kind": "chat",
-      "zo_score": 31,
+      "zo_score": 3,
       "health": "ok"
     },
     {
@@ -205,6 +184,27 @@
       "source": "https://openrouter.ai/google/lyria-3-clip-preview",
       "created": 1774907255,
       "kind": "other",
+      "zo_score": null,
+      "health": null
+    },
+    {
+      "id": "baidu/ernie-5.5-flash-preview:free",
+      "name": "Baidu: ERNIE-5.5-Flash-Preview (free)",
+      "provider": "Baidu",
+      "context_window": 1024000,
+      "max_output": 921600,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free",
+      "created": 1794333533,
+      "kind": "chat",
       "zo_score": null,
       "health": null
     },

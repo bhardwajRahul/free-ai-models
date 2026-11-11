@@ -62,17 +62,17 @@ Cada modelo incluye:
 ## Modelos gratis (actualizados a diario)
 
 <!-- TABLE_START -->
-> Última actualización: **Tue, 10 Nov 2026 12:24:44 UTC** · 15 modelos de chat · ordenados por puntuación [ZeroOptimize](https://www.zerolimitai.com/leaderboard) y después por contexto · los límites son del proveedor, por cuenta
+> Última actualización: **Wed, 11 Nov 2026 11:46:14 UTC** · 15 modelos de chat · ordenados por puntuación [ZeroOptimize](https://www.zerolimitai.com/leaderboard) y después por contexto · los límites son del proveedor, por cuenta
 
 | # | Modelo | Proveedor | Contexto | Salida máx. | Modalidades | Límite de uso | Puntuación | Hoy | Fuente |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | **Google: Gemma 4 26B A4B  (free)** | Google | 262K | 33K | 🖼️ vision, 💬 text, video | 20 RPM · 50 RPD | 100 | ✅ activo | [enlace](https://openrouter.ai/google/gemma-4-26b-a4b-it:free) |
-| 2 | **Google: Gemma 4 31B (free)** | Google | 262K | 33K | 🖼️ vision, 💬 text, video | 20 RPM · 50 RPD | 69 | ✅ activo | [enlace](https://openrouter.ai/google/gemma-4-31b-it:free) |
-| 3 | **Recursive: Flint (free)** | Recursive | 262K | 236K | 💬 text | 20 RPM · 50 RPD | 43 | ✅ activo | [enlace](https://openrouter.ai/recursive/flint-v1.0:free) |
-| 4 | **Cohere: North Mini Code (free)** | Cohere | 256K | 64K | 💬 text | 20 RPM · 50 RPD | 37 | ✅ activo | [enlace](https://openrouter.ai/cohere/north-mini-code:free) |
-| 5 | **XingChen: Xing4.0 29B A4B (free)** | Xingchen agi | 262K | 236K | 💬 text | 20 RPM · 50 RPD | 31 | ✅ activo | [enlace](https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free) |
-| 6 | **Dots Studio: Dots3-Note Preview (free)** <br><sub>⏳ se retira el 2026-12-31</sub> | Dots studio | 512K | 461K | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | 0 | ✅ activo | [enlace](https://openrouter.ai/dots-studio/dots-3-note-preview:free) |
-| 7 | **Thinking Machines: Inkling 2 Small (free)** | Thinkingmachines | 1M | 131K | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/thinkingmachines/inkling-2-small:free) |
+| 1 | **Google: Gemma 4 26B A4B  (free)** | Google | 262K | 33K | 🖼️ vision, 💬 text, video | 20 RPM · 50 RPD | 100 | ⚠️ degradado | [enlace](https://openrouter.ai/google/gemma-4-26b-a4b-it:free) |
+| 2 | **Google: Gemma 4 31B (free)** | Google | 262K | 33K | 🖼️ vision, 💬 text, video | 20 RPM · 50 RPD | 91 | ✅ activo | [enlace](https://openrouter.ai/google/gemma-4-31b-it:free) |
+| 3 | **Cohere: North Mini Code (free)** | Cohere | 256K | 64K | 💬 text | 20 RPM · 50 RPD | 48 | ✅ activo | [enlace](https://openrouter.ai/cohere/north-mini-code:free) |
+| 4 | **Recursive: Flint (free)** | Recursive | 262K | 236K | 💬 text | 20 RPM · 50 RPD | 3 | ✅ activo | [enlace](https://openrouter.ai/recursive/flint-v1.0:free) |
+| 5 | **Dots Studio: Dots3-Note Preview (free)** <br><sub>⏳ se retira el 2026-12-31</sub> | Dots studio | 512K | 461K | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | 0 | ✅ activo | [enlace](https://openrouter.ai/dots-studio/dots-3-note-preview:free) |
+| 6 | **Thinking Machines: Inkling 2 Small (free)** | Thinkingmachines | 1M | 131K | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/thinkingmachines/inkling-2-small:free) |
+| 7 | **Baidu: ERNIE-5.5-Flash-Preview (free)** | Baidu | 1M | 922K | 💬 text | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/baidu/ernie-5.5-flash-preview:free) |
 | 8 | **NVIDIA: Nemotron 3.5 Super VL (free)** | Nvidia | 1M | 131K | 💬 text, 🖼️ vision, video | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free) |
 | 9 | **NVIDIA: Nemotron 3.5 Lightning (free)** | Nvidia | 1M | 66K | 💬 text | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/nvidia/nemotron-3.5-lightning:free) |
 | 10 | **NVIDIA: Nemotron 3 Ultra (free)** | Nvidia | 1M | 66K | 💬 text | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free) |
