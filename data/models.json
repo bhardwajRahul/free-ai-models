@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T11:46:14.275Z",
+  "updated_at": "2026-11-12T12:26:58.550Z",
   "total_free_models": 17,
   "sources": [
     "openrouter.ai/api/v1/models",
@@ -50,7 +50,7 @@
       "source": "https://openrouter.ai/google/gemma-4-31b-it:free",
       "created": 1775148486,
       "kind": "chat",
-      "zo_score": 91,
+      "zo_score": 79,
       "health": "ok"
     },
     {
@@ -71,29 +71,8 @@
       "source": "https://openrouter.ai/cohere/north-mini-code:free",
       "created": 1781723748,
       "kind": "chat",
-      "zo_score": 48,
-      "health": "ok"
-    },
-    {
-      "id": "recursive/flint-v1.0:free",
-      "name": "Recursive: Flint (free)",
-      "provider": "Recursive",
-      "context_window": 262144,
-      "max_output": 235929,
-      "modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
-      "notes": "",
-      "source": "https://openrouter.ai/recursive/flint-v1.0:free",
-      "created": 1792622765,
-      "kind": "chat",
-      "zo_score": 3,
-      "health": "ok"
+      "zo_score": 26,
+      "health": "sick"
     },
     {
       "id": "dots-studio/dots-3-note-preview:free",
@@ -113,6 +92,27 @@
       "notes": "",
       "source": "https://openrouter.ai/dots-studio/dots-3-note-preview:free",
       "created": 1786680361,
+      "kind": "chat",
+      "zo_score": 0,
+      "health": "ok"
+    },
+    {
+      "id": "recursive/flint-v1.0:free",
+      "name": "Recursive: Flint (free)",
+      "provider": "Recursive",
+      "context_window": 262144,
+      "max_output": 235929,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/recursive/flint-v1.0:free",
+      "created": 1792622765,
       "kind": "chat",
       "zo_score": 0,
       "health": "ok"
