@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T12:01:32.768Z",
+  "updated_at": "2026-11-14T11:19:27.951Z",
   "total_free_models": 18,
   "sources": [
     "openrouter.ai/api/v1/models",
@@ -28,7 +28,7 @@
       "created": 1775227989,
       "kind": "chat",
       "zo_score": 100,
-      "health": "sick"
+      "health": "ok"
     },
     {
       "id": "google/gemma-4-31b-it:free",
@@ -50,8 +50,8 @@
       "source": "https://openrouter.ai/google/gemma-4-31b-it:free",
       "created": 1775148486,
       "kind": "chat",
-      "zo_score": 51,
-      "health": "sick"
+      "zo_score": 77,
+      "health": "ok"
     },
     {
       "id": "cohere/north-mini-code:free",
@@ -71,28 +71,7 @@
       "source": "https://openrouter.ai/cohere/north-mini-code:free",
       "created": 1781723748,
       "kind": "chat",
-      "zo_score": 36,
-      "health": "ok"
-    },
-    {
-      "id": "recursive/flint-v1.0:free",
-      "name": "Recursive: Flint (free)",
-      "provider": "Recursive",
-      "context_window": 262144,
-      "max_output": 235929,
-      "modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
-      "notes": "",
-      "source": "https://openrouter.ai/recursive/flint-v1.0:free",
-      "created": 1792622765,
-      "kind": "chat",
-      "zo_score": 19,
+      "zo_score": 3,
       "health": "ok"
     },
     {
@@ -116,6 +95,49 @@
       "kind": "chat",
       "zo_score": 0,
       "health": "ok"
+    },
+    {
+      "id": "recursive/flint-v1.0:free",
+      "name": "Recursive: Flint (free)",
+      "provider": "Recursive",
+      "context_window": 262144,
+      "max_output": 235929,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/recursive/flint-v1.0:free",
+      "created": 1792622765,
+      "kind": "chat",
+      "zo_score": 0,
+      "health": "ok"
+    },
+    {
+      "id": "inclusionai/ling-3.2-flash:free",
+      "name": "inclusionAI: Ling 3.2 Flash (free)",
+      "provider": "Inclusionai",
+      "context_window": 1048576,
+      "max_output": 262144,
+      "modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/inclusionai/ling-3.2-flash:free",
+      "created": 1794591958,
+      "kind": "chat",
+      "zo_score": null,
+      "health": null
     },
     {
       "id": "thinkingmachines/inkling-2-small:free",
@@ -358,27 +380,6 @@
       "notes": "",
       "source": "https://openrouter.ai/openrouter/free",
       "created": 1769917427,
-      "kind": "chat",
-      "zo_score": null,
-      "health": null
-    },
-    {
-      "id": "liquid/lfm-2.5-2.6b:free",
-      "name": "LiquidAI: LFM2.5-2.6B (free)",
-      "provider": "Liquid",
-      "context_window": 65536,
-      "max_output": 8192,
-      "modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": "2026-11-13",
-      "notes": "",
-      "source": "https://openrouter.ai/liquid/lfm-2.5-2.6b:free",
-      "created": 1786470519,
       "kind": "chat",
       "zo_score": null,
       "health": null
