@@ -62,13 +62,13 @@ Cada modelo incluye:
 ## Modelos gratis (actualizados a diario)
 
 <!-- TABLE_START -->
-> Última actualización: **Mon, 16 Nov 2026 12:34:37 UTC** · 16 modelos de chat · ordenados por puntuación [ZeroOptimize](https://www.zerolimitai.com/leaderboard) y después por contexto · los límites son del proveedor, por cuenta
+> Última actualización: **Tue, 17 Nov 2026 12:59:33 UTC** · 16 modelos de chat · ordenados por puntuación [ZeroOptimize](https://www.zerolimitai.com/leaderboard) y después por contexto · los límites son del proveedor, por cuenta
 
 | # | Modelo | Proveedor | Contexto | Salida máx. | Modalidades | Límite de uso | Puntuación | Hoy | Fuente |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | **Google: Gemma 4 26B A4B  (free)** | Google | 262K | 33K | 🖼️ vision, 💬 text, video | 20 RPM · 50 RPD | 100 | ✅ activo | [enlace](https://openrouter.ai/google/gemma-4-26b-a4b-it:free) |
-| 2 | **Google: Gemma 4 31B (free)** | Google | 262K | 33K | 🖼️ vision, 💬 text, video | 20 RPM · 50 RPD | 67 | ✅ activo | [enlace](https://openrouter.ai/google/gemma-4-31b-it:free) |
-| 3 | **Cohere: North Mini Code (free)** | Cohere | 256K | 64K | 💬 text | 20 RPM · 50 RPD | 44 | ✅ activo | [enlace](https://openrouter.ai/cohere/north-mini-code:free) |
+| 2 | **Google: Gemma 4 31B (free)** | Google | 262K | 33K | 🖼️ vision, 💬 text, video | 20 RPM · 50 RPD | 86 | ✅ activo | [enlace](https://openrouter.ai/google/gemma-4-31b-it:free) |
+| 3 | **Cohere: North Mini Code (free)** | Cohere | 256K | 64K | 💬 text | 20 RPM · 50 RPD | 36 | ✅ activo | [enlace](https://openrouter.ai/cohere/north-mini-code:free) |
 | 4 | **Dots Studio: Dots3-Note Preview (free)** <br><sub>⏳ se retira el 2026-12-31</sub> | Dots studio | 512K | 461K | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | 0 | ✅ activo | [enlace](https://openrouter.ai/dots-studio/dots-3-note-preview:free) |
 | 5 | **Recursive: Flint (free)** | Recursive | 262K | 236K | 💬 text | 20 RPM · 50 RPD | 0 | ✅ activo | [enlace](https://openrouter.ai/recursive/flint-v1.0:free) |
 | 6 | **inclusionAI: Ling 3.2 Flash (free)** | Inclusionai | 1M | 262K | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/inclusionai/ling-3.2-flash:free) |

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T12:34:37.574Z",
+  "updated_at": "2026-11-17T12:59:33.349Z",
   "total_free_models": 18,
   "sources": [
     "openrouter.ai/api/v1/models",
@@ -50,7 +50,7 @@
       "source": "https://openrouter.ai/google/gemma-4-31b-it:free",
       "created": 1775148486,
       "kind": "chat",
-      "zo_score": 67,
+      "zo_score": 86,
       "health": "ok"
     },
     {
@@ -71,7 +71,7 @@
       "source": "https://openrouter.ai/cohere/north-mini-code:free",
       "created": 1781723748,
       "kind": "chat",
-      "zo_score": 44,
+      "zo_score": 36,
       "health": "ok"
     },
     {
