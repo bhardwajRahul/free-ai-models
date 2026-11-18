@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T12:59:33.349Z",
+  "updated_at": "2026-11-18T12:53:07.188Z",
   "total_free_models": 18,
   "sources": [
     "openrouter.ai/api/v1/models",
@@ -7,29 +7,6 @@
     "zerolimitai.com/api/models/free-top"
   ],
   "models": [
-    {
-      "id": "google/gemma-4-26b-a4b-it:free",
-      "name": "Google: Gemma 4 26B A4B  (free)",
-      "provider": "Google",
-      "context_window": 262144,
-      "max_output": 32768,
-      "modalities": [
-        "image",
-        "text",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
-      "notes": "",
-      "source": "https://openrouter.ai/google/gemma-4-26b-a4b-it:free",
-      "created": 1775227989,
-      "kind": "chat",
-      "zo_score": 100,
-      "health": "ok"
-    },
     {
       "id": "google/gemma-4-31b-it:free",
       "name": "Google: Gemma 4 31B (free)",
@@ -50,7 +27,30 @@
       "source": "https://openrouter.ai/google/gemma-4-31b-it:free",
       "created": 1775148486,
       "kind": "chat",
-      "zo_score": 86,
+      "zo_score": 100,
+      "health": "ok"
+    },
+    {
+      "id": "google/gemma-4-26b-a4b-it:free",
+      "name": "Google: Gemma 4 26B A4B  (free)",
+      "provider": "Google",
+      "context_window": 262144,
+      "max_output": 32768,
+      "modalities": [
+        "image",
+        "text",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/google/gemma-4-26b-a4b-it:free",
+      "created": 1775227989,
+      "kind": "chat",
+      "zo_score": 93,
       "health": "ok"
     },
     {
@@ -71,7 +71,7 @@
       "source": "https://openrouter.ai/cohere/north-mini-code:free",
       "created": 1781723748,
       "kind": "chat",
-      "zo_score": 36,
+      "zo_score": 43,
       "health": "ok"
     },
     {
@@ -153,7 +153,7 @@
         "text"
       ],
       "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
+      "expires": "2026-11-19",
       "notes": "",
       "source": "https://openrouter.ai/thinkingmachines/inkling-2-small:free",
       "created": 1794261847,
