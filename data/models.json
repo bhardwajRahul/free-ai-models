@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T12:53:07.188Z",
+  "updated_at": "2026-11-19T12:44:44.177Z",
   "total_free_models": 18,
   "sources": [
     "openrouter.ai/api/v1/models",
@@ -7,29 +7,6 @@
     "zerolimitai.com/api/models/free-top"
   ],
   "models": [
-    {
-      "id": "google/gemma-4-31b-it:free",
-      "name": "Google: Gemma 4 31B (free)",
-      "provider": "Google",
-      "context_window": 262144,
-      "max_output": 32768,
-      "modalities": [
-        "image",
-        "text",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
-      "notes": "",
-      "source": "https://openrouter.ai/google/gemma-4-31b-it:free",
-      "created": 1775148486,
-      "kind": "chat",
-      "zo_score": 100,
-      "health": "ok"
-    },
     {
       "id": "google/gemma-4-26b-a4b-it:free",
       "name": "Google: Gemma 4 26B A4B  (free)",
@@ -50,8 +27,31 @@
       "source": "https://openrouter.ai/google/gemma-4-26b-a4b-it:free",
       "created": 1775227989,
       "kind": "chat",
-      "zo_score": 93,
+      "zo_score": 100,
       "health": "ok"
+    },
+    {
+      "id": "google/gemma-4-31b-it:free",
+      "name": "Google: Gemma 4 31B (free)",
+      "provider": "Google",
+      "context_window": 262144,
+      "max_output": 32768,
+      "modalities": [
+        "image",
+        "text",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/google/gemma-4-31b-it:free",
+      "created": 1775148486,
+      "kind": "chat",
+      "zo_score": 73,
+      "health": "sick"
     },
     {
       "id": "cohere/north-mini-code:free",
@@ -71,8 +71,29 @@
       "source": "https://openrouter.ai/cohere/north-mini-code:free",
       "created": 1781723748,
       "kind": "chat",
-      "zo_score": 43,
-      "health": "ok"
+      "zo_score": 41,
+      "health": "sick"
+    },
+    {
+      "id": "recursive/flint-v1.0:free",
+      "name": "Recursive: Flint (free)",
+      "provider": "Recursive",
+      "context_window": 262144,
+      "max_output": 235929,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/recursive/flint-v1.0:free",
+      "created": 1792622765,
+      "kind": "chat",
+      "zo_score": 2,
+      "health": "sick"
     },
     {
       "id": "dots-studio/dots-3-note-preview:free",
@@ -94,28 +115,7 @@
       "created": 1786680361,
       "kind": "chat",
       "zo_score": 0,
-      "health": "ok"
-    },
-    {
-      "id": "recursive/flint-v1.0:free",
-      "name": "Recursive: Flint (free)",
-      "provider": "Recursive",
-      "context_window": 262144,
-      "max_output": 235929,
-      "modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
-      "notes": "",
-      "source": "https://openrouter.ai/recursive/flint-v1.0:free",
-      "created": 1792622765,
-      "kind": "chat",
-      "zo_score": 0,
-      "health": "ok"
+      "health": "sick"
     },
     {
       "id": "inclusionai/ling-3.2-flash:free",
