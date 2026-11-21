@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-20T12:40:56.050Z",
-  "total_free_models": 16,
+  "updated_at": "2026-11-21T12:22:05.116Z",
+  "total_free_models": 15,
   "sources": [
     "openrouter.ai/api/v1/models",
     "text.pollinations.ai/models",
@@ -28,28 +28,6 @@
       "created": 1775227989,
       "kind": "chat",
       "zo_score": 100,
-      "health": "sick"
-    },
-    {
-      "id": "dots-studio/dots-3-note-preview:free",
-      "name": "Dots Studio: Dots3-Note Preview (free)",
-      "provider": "Dots studio",
-      "context_window": 512000,
-      "max_output": 460800,
-      "modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": "2026-12-31",
-      "notes": "",
-      "source": "https://openrouter.ai/dots-studio/dots-3-note-preview:free",
-      "created": 1786680361,
-      "kind": "chat",
-      "zo_score": 38,
       "health": "ok"
     },
     {
@@ -72,52 +50,8 @@
       "source": "https://openrouter.ai/google/gemma-4-31b-it:free",
       "created": 1775148486,
       "kind": "chat",
-      "zo_score": 27,
+      "zo_score": 35,
       "health": "ok"
-    },
-    {
-      "id": "inclusionai/ling-3.2-flash:free",
-      "name": "inclusionAI: Ling 3.2 Flash (free)",
-      "provider": "Inclusionai",
-      "context_window": 1048576,
-      "max_output": 262144,
-      "modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
-      "notes": "",
-      "source": "https://openrouter.ai/inclusionai/ling-3.2-flash:free",
-      "created": 1794591958,
-      "kind": "chat",
-      "zo_score": 23,
-      "health": "ok"
-    },
-    {
-      "id": "particle-ai/particle-1:free",
-      "name": "Particle AI: Particle-1 (free)",
-      "provider": "Particle ai",
-      "context_window": 1048576,
-      "max_output": 131072,
-      "modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
-      "notes": "",
-      "source": "https://openrouter.ai/particle-ai/particle-1:free",
-      "created": 1793207893,
-      "kind": "chat",
-      "zo_score": 23,
-      "health": "sick"
     },
     {
       "id": "baidu/ernie-5.5-flash-preview:free",
@@ -141,6 +75,28 @@
       "health": "ok"
     },
     {
+      "id": "inclusionai/ling-3.2-flash:free",
+      "name": "inclusionAI: Ling 3.2 Flash (free)",
+      "provider": "Inclusionai",
+      "context_window": 1048576,
+      "max_output": 262144,
+      "modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/inclusionai/ling-3.2-flash:free",
+      "created": 1794591958,
+      "kind": "chat",
+      "zo_score": 16,
+      "health": "ok"
+    },
+    {
       "id": "recursive/flint-v1.0:free",
       "name": "Recursive: Flint (free)",
       "provider": "Recursive",
@@ -158,8 +114,30 @@
       "source": "https://openrouter.ai/recursive/flint-v1.0:free",
       "created": 1792622765,
       "kind": "chat",
-      "zo_score": 14,
+      "zo_score": 2,
       "health": "ok"
+    },
+    {
+      "id": "particle-ai/particle-1:free",
+      "name": "Particle AI: Particle-1 (free)",
+      "provider": "Particle ai",
+      "context_window": 1048576,
+      "max_output": 131072,
+      "modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/particle-ai/particle-1:free",
+      "created": 1793207893,
+      "kind": "chat",
+      "zo_score": null,
+      "health": null
     },
     {
       "id": "google/lyria-3-pro-preview",
