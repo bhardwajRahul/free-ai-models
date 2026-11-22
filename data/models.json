@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T12:22:05.116Z",
+  "updated_at": "2026-11-22T12:25:03.227Z",
   "total_free_models": 15,
   "sources": [
     "openrouter.ai/api/v1/models",
@@ -50,8 +50,30 @@
       "source": "https://openrouter.ai/google/gemma-4-31b-it:free",
       "created": 1775148486,
       "kind": "chat",
-      "zo_score": 35,
+      "zo_score": 31,
       "health": "ok"
+    },
+    {
+      "id": "particle-ai/particle-1:free",
+      "name": "Particle AI: Particle-1 (free)",
+      "provider": "Particle ai",
+      "context_window": 1048576,
+      "max_output": 131072,
+      "modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/particle-ai/particle-1:free",
+      "created": 1793207893,
+      "kind": "chat",
+      "zo_score": 27,
+      "health": "sick"
     },
     {
       "id": "baidu/ernie-5.5-flash-preview:free",
@@ -71,7 +93,7 @@
       "source": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free",
       "created": 1794333533,
       "kind": "chat",
-      "zo_score": 20,
+      "zo_score": 21,
       "health": "ok"
     },
     {
@@ -93,7 +115,7 @@
       "source": "https://openrouter.ai/inclusionai/ling-3.2-flash:free",
       "created": 1794591958,
       "kind": "chat",
-      "zo_score": 16,
+      "zo_score": 17,
       "health": "ok"
     },
     {
@@ -116,28 +138,6 @@
       "kind": "chat",
       "zo_score": 2,
       "health": "ok"
-    },
-    {
-      "id": "particle-ai/particle-1:free",
-      "name": "Particle AI: Particle-1 (free)",
-      "provider": "Particle ai",
-      "context_window": 1048576,
-      "max_output": 131072,
-      "modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
-      "notes": "",
-      "source": "https://openrouter.ai/particle-ai/particle-1:free",
-      "created": 1793207893,
-      "kind": "chat",
-      "zo_score": null,
-      "health": null
     },
     {
       "id": "google/lyria-3-pro-preview",
