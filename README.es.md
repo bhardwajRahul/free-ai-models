@@ -62,20 +62,20 @@ Cada modelo incluye:
 ## Modelos gratis (actualizados a diario)
 
 <!-- TABLE_START -->
-> Última actualización: **Mon, 23 Nov 2026 14:17:59 UTC** · 14 modelos de chat · ordenados por puntuación [ZeroOptimize](https://www.zerolimitai.com/leaderboard) y después por contexto · los límites son del proveedor, por cuenta
+> Última actualización: **Tue, 24 Nov 2026 14:42:48 UTC** · 14 modelos de chat · ordenados por puntuación [ZeroOptimize](https://www.zerolimitai.com/leaderboard) y después por contexto · los límites son del proveedor, por cuenta
 
 | # | Modelo | Proveedor | Contexto | Salida máx. | Modalidades | Límite de uso | Puntuación | Hoy | Fuente |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | **Google: Gemma 4 26B A4B  (free)** | Google | 262K | 33K | 🖼️ vision, 💬 text, video | 20 RPM · 50 RPD | 100 | ✅ activo | [enlace](https://openrouter.ai/google/gemma-4-26b-a4b-it:free) |
-| 2 | **Google: Gemma 4 31B (free)** | Google | 262K | 33K | 🖼️ vision, 💬 text, video | 20 RPM · 50 RPD | 36 | ✅ activo | [enlace](https://openrouter.ai/google/gemma-4-31b-it:free) |
-| 3 | **Baidu: ERNIE-5.5-Flash-Preview (free)** | Baidu | 1M | 922K | 💬 text | 20 RPM · 50 RPD | 11 | ✅ activo | [enlace](https://openrouter.ai/baidu/ernie-5.5-flash-preview:free) |
-| 4 | **inclusionAI: Ling 3.2 Flash (free)** | Inclusionai | 1M | 262K | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | 4 | ✅ activo | [enlace](https://openrouter.ai/inclusionai/ling-3.2-flash:free) |
-| 5 | **Recursive: Flint (free)** | Recursive | 262K | 236K | 💬 text | 20 RPM · 50 RPD | 2 | ✅ activo | [enlace](https://openrouter.ai/recursive/flint-v1.0:free) |
-| 6 | **Particle AI: Particle-1 (free)** | Particle ai | 1M | 131K | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/particle-ai/particle-1:free) |
-| 7 | **NVIDIA: Nemotron 3.5 Super VL (free)** | Nvidia | 1M | 131K | 💬 text, 🖼️ vision, video | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free) |
-| 8 | **NVIDIA: Nemotron 3.5 Lightning (free)** | Nvidia | 1M | 66K | 💬 text | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/nvidia/nemotron-3.5-lightning:free) |
-| 9 | **NVIDIA: Nemotron 3 Ultra (free)** | Nvidia | 1M | 66K | 💬 text | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free) |
-| 10 | **Dots Studio: Dots3-Note Preview (free)** <br><sub>⏳ se retira el 2026-12-31</sub> | Dots studio | 512K | 461K | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/dots-studio/dots-3-note-preview:free) |
+| 2 | **Dots Studio: Dots3-Note Preview (free)** <br><sub>⏳ se retira el 2026-12-31</sub> | Dots studio | 512K | 461K | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | 79 | ✅ activo | [enlace](https://openrouter.ai/dots-studio/dots-3-note-preview:free) |
+| 3 | **Baidu: ERNIE-5.5-Flash-Preview (free)** | Baidu | 1M | 922K | 💬 text | 20 RPM · 50 RPD | 65 | ✅ activo | [enlace](https://openrouter.ai/baidu/ernie-5.5-flash-preview:free) |
+| 4 | **Google: Gemma 4 31B (free)** | Google | 262K | 33K | 🖼️ vision, 💬 text, video | 20 RPM · 50 RPD | 31 | ✅ activo | [enlace](https://openrouter.ai/google/gemma-4-31b-it:free) |
+| 5 | **Particle AI: Particle-1 (free)** | Particle ai | 1M | 131K | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | 27 | ⚠️ degradado | [enlace](https://openrouter.ai/particle-ai/particle-1:free) |
+| 6 | **Recursive: Flint (free)** | Recursive | 262K | 236K | 💬 text | 20 RPM · 50 RPD | 2 | ✅ activo | [enlace](https://openrouter.ai/recursive/flint-v1.0:free) |
+| 7 | **inclusionAI: Ling 3.2 Flash (free)** | Inclusionai | 1M | 262K | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | 0 | ✅ activo | [enlace](https://openrouter.ai/inclusionai/ling-3.2-flash:free) |
+| 8 | **NVIDIA: Nemotron 3.5 Super VL (free)** | Nvidia | 1M | 131K | 💬 text, 🖼️ vision, video | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free) |
+| 9 | **NVIDIA: Nemotron 3.5 Lightning (free)** | Nvidia | 1M | 66K | 💬 text | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/nvidia/nemotron-3.5-lightning:free) |
+| 10 | **NVIDIA: Nemotron 3 Ultra (free)** | Nvidia | 1M | 66K | 💬 text | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free) |
 | 11 | **LiquidAI: LFM3-1.7B (free)** | Liquid | 262K | 8K | 💬 text | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/liquid/lfm-3-1.7b:free) |
 | 12 | **NVIDIA: Nemotron 3 Nano Omni (free)** | Nvidia | 256K | 66K | 💬 text, audio, 🖼️ vision, video | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free) |
 | 13 | **Free Models Router** | Openrouter | 200K | — | 💬 text, 🖼️ vision | 20 RPM · 50 RPD | — | — | [enlace](https://openrouter.ai/openrouter/free) |
