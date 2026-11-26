@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T14:05:19.262Z",
+  "updated_at": "2026-11-26T13:42:37.458Z",
   "total_free_models": 15,
   "sources": [
     "openrouter.ai/api/v1/models",
@@ -50,7 +50,7 @@
       "source": "https://openrouter.ai/google/gemma-4-31b-it:free",
       "created": 1775148486,
       "kind": "chat",
-      "zo_score": 37,
+      "zo_score": 40,
       "health": "ok"
     },
     {
@@ -71,7 +71,50 @@
       "source": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free",
       "created": 1794333533,
       "kind": "chat",
-      "zo_score": 13,
+      "zo_score": 35,
+      "health": "ok"
+    },
+    {
+      "id": "particle-ai/particle-1:free",
+      "name": "Particle AI: Particle-1 (free)",
+      "provider": "Particle ai",
+      "context_window": 1048576,
+      "max_output": 943718,
+      "modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/particle-ai/particle-1:free",
+      "created": 1793207893,
+      "kind": "chat",
+      "zo_score": 24,
+      "health": "sick"
+    },
+    {
+      "id": "recursive/flint-v1.0:free",
+      "name": "Recursive: Flint (free)",
+      "provider": "Recursive",
+      "context_window": 262144,
+      "max_output": 235929,
+      "modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "rate_limit": "20 RPM · 50 RPD",
+      "expires": null,
+      "notes": "",
+      "source": "https://openrouter.ai/recursive/flint-v1.0:free",
+      "created": 1792622765,
+      "kind": "chat",
+      "zo_score": 4,
       "health": "ok"
     },
     {
@@ -95,49 +138,6 @@
       "kind": "chat",
       "zo_score": 0,
       "health": "ok"
-    },
-    {
-      "id": "recursive/flint-v1.0:free",
-      "name": "Recursive: Flint (free)",
-      "provider": "Recursive",
-      "context_window": 262144,
-      "max_output": 235929,
-      "modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
-      "notes": "",
-      "source": "https://openrouter.ai/recursive/flint-v1.0:free",
-      "created": 1792622765,
-      "kind": "chat",
-      "zo_score": 0,
-      "health": "ok"
-    },
-    {
-      "id": "particle-ai/particle-1:free",
-      "name": "Particle AI: Particle-1 (free)",
-      "provider": "Particle ai",
-      "context_window": 1048576,
-      "max_output": 131072,
-      "modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "rate_limit": "20 RPM · 50 RPD",
-      "expires": null,
-      "notes": "",
-      "source": "https://openrouter.ai/particle-ai/particle-1:free",
-      "created": 1793207893,
-      "kind": "chat",
-      "zo_score": null,
-      "health": null
     },
     {
       "id": "google/lyria-3-pro-preview",
